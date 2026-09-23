@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "15856e6eea61f602a2efd2de",
+  "owner": "wan9900",
+  "repo": "page-3fcaf37eeb3e6eabc8c5aa57",
+  "title": "壁虎云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3fcaf37eeb3e6eabc8c5aa57",
+      "a": "壁虎云",
+      "b": "2027最新官网",
+      "entity": "壁虎云",
+      "brand": "壁虎云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5a1ff86f042b5596784486e7c8c54de4b4dc357d6f0661c335c0e8fa749e18a7",
+      "content": {
+        "primary_entity": "壁虎云",
+        "keyword1": "壁虎云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 与路由器可按系统挑客户端。",
+          "AI_DESCRIPTION": "，壁虎云提供基础版、旗舰版与团队版三档订阅，覆盖 3 台到 20 台设备同时在线，月流量从 100GB 到 1000GB 可选。月付与年付两种周期灵活切换，适合个人多设备、流媒体观看与小型团队协同使用。",
+          "AI_FEATURES_TITLE": "订阅前先看这三点",
+          "AI_FEATURES_INTRO": "把设备数量、流量需求和订阅周期先对齐，再决定套餐档位。",
+          "AI_FEATURE_TITLE_1": "先数在线设备",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用终端数量挑档位。",
+          "AI_FEATURE_TITLE_2": "再看月流量",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 与 1000GB 三档流量，常看高清视频优先考虑旗舰版。",
+          "AI_FEATURE_TITLE_3": "年付更省心",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，一次订阅覆盖全年。",
+          "AI_HERO_SUBTITLE": "多端在线，按需选档",
+          "AI_HERO_INTRO": "壁虎云面向需要稳定跨境访问的用户，提供基础版、旗舰版与团队版三档订阅，按设备数量与月流量区分，月付年付均可，方便个人和团队按实际用量选择。",
+          "AI_HIGHLIGHT_1": "三档套餐按设备与流量区分",
+          "AI_HIGHLIGHT_2": "月付年付两种计费周期",
+          "AI_HIGHLIGHT_3": "多终端客户端按系统选择",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合轻度使用，旗舰版 ¥35/月覆盖流媒体与游戏，团队版 ¥85/月满足多人多设备。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按客户端文档完成配置即可。",
+          "AI_STEP_TITLE_1": "选服务档位",
+          "AI_STEP_TEXT_1": "按设备数量与月流量挑选基础版、旗舰版或团队版，并确定月付或年付周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统版本与客户端类型，路由器用户留意固件是否支持订阅导入。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，依照各平台文档完成节点与规则设置。",
+          "AI_VISUAL_TITLE": "壁虎云订阅选择",
+          "AI_CLOSING_TITLE": "选对档位再开始",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑好套餐，就能按客户端文档完成订阅配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常浏览与基础流媒体使用，月付¥15或按年付¥150，每月100GB流量，最多3台设备同时在线。若同时使用手机、平板和电脑，基本能满足。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，每月300GB流量，包含全节点原生流媒体解锁与IPLC专线游戏加速优化，按年付¥350，适合多设备、需要游戏或流媒体加速的用户。",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量，支持20台设备同时在线，提供VIP专属高带宽节点与企业定制路由，按年付¥850，适合小团队或工作室多人共享场景。",
+          "AI_FAQ_ANSWER_4": "年付更划算。基础版年付¥150、旗舰版年付¥350、团队版年付¥850，比按月支付节省两个月费用。先按月体验，确认稳定后再转年付也可以。",
+          "AI_FAQ_ANSWER_5": "先确认同时在线的设备数量，再估算每月流量用量。3台以内且流量需求低于100GB选基础版；5台左右且常看流媒体选旗舰版；20台设备或团队共享选团队版，按年付更省。",
+          "AI_FAQ_QUESTION_1": "基础版能满足日常使用吗？",
+          "AI_FAQ_QUESTION_2": "旗舰版多了哪些实用功能？",
+          "AI_FAQ_QUESTION_3": "团队版适合哪些人使用？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "如何判断自己该选哪一档套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xlinkworldjc.com",
+    "host": "xlinkworldjc.com"
+  },
+  "file_hashes": {
+    "index.html": "154ed949cde869276d304748e538efd92c652d561b64103edaa17160e4dbd2fa",
+    "sitemap.xml": "62bf0c982ce73cdf11db3e7a0e724272e7e4fcb162fb441c3e32809961dfa306",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8075d3e5786a81897ed406ec3d794c76764597cbfaf91a90fe7d20db7a2c0b9f",
+    "robots.txt": "e38bff7c0e0e3a4fbad2a99945d096a5a155e109d078cb21cac67e23764fadcb",
+    "d61321b33a1015d1f4ade976c3e8e5c9.txt": "1246ae3cf8a9b4f2b6302141b161d97b9ed92d57d5eaef763c21828d073eff67"
+  },
+  "revision": "a32a4a3c0d5c0e811f7d7429803d96eb1c90e0f9c545094ac5144abdb5d7ef0a"
+}
